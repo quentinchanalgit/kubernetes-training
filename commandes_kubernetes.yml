@@ -1,0 +1,2 @@
+create a namespace :
+kubectl create namespace test
